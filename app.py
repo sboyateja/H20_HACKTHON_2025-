@@ -51,7 +51,7 @@ labels = {
             "intro": "Input your appliance details to estimate water usage and get upgrade recommendations.",
             "form": {
                 "household_size": "Household Size (people)",
-                "toilet_age": "Toilet Age",
+                "toilet_age": "Usage",
                 "toilet_age_options": ["Pre-1992 (>3.5 GPF)", "1992–2000 (1.6 GPF)", "Post-2000 (≤1.28 GPF)"],
                 "showerhead_flow": "Showerhead Flow Rate (GPM)",
                 "faucet_flow": "Faucet Flow Rate (GPM)",
